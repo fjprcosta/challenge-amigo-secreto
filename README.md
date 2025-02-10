@@ -1,7 +1,7 @@
 <h1>Challenge do Amigo secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizando lógica de programação.</p>
+<p>Projeto de sorteio de amigo secreto, utilizando lógica de programação em javascript.</p>
 
 ## 🚀 Tecnologias
 <div>
